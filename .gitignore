@@ -1,0 +1,9 @@
+/dhdc_database/
+/frontend/web/assets/
+/backend/web/assets/
+/frontend/web/fortythree/
+/frontend/web/fortythreebackup/
+/vendor/
+/common/config/
+/nbproject/private/
+/backend/config/
