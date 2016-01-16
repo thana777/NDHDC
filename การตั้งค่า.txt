@@ -1,4 +1,4 @@
-#ตั้งค่าระบบ#
+###ตั้งค่าระบบ####
 [php.ini]
 - max_execution_time=360000
 - post_max_size=64M
